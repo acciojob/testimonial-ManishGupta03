@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+.container h1{
+	font-weight: bold;
+	
+} 
+.container{
+	background-color: #f5f5f5;
+	widht: 70px;
+	padding: 20px 20px;
+	
+}
+
+.container .p-tag{
+	display:flex;
+	background-color: white;
+	justify-content: space-between;	
+	margin: 10px;
+	width: 97%;
+	text-align: right;
+	font-style: italic;
+	
+}
+
+.container .p-tag2{
+	display:flex;
+	background-color: white;
+	justify-content: space-between;	
+	margin: 10px;
+	width: 97%;
+	text-align: right;
+	font-style: italic;
+}
+
+.container p{
+	padding: 2px 2px;
+	justify-content: space-between;
+	
+	
+}
